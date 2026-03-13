@@ -9,7 +9,7 @@
 | 章节 | 标题 | 难度 | 描述 |
 |:---:|------|:----:|------|
 | 01 | [安装配置指南](./docs/claude-code/01-安装配置指南.md) | ⭐ | 环境搭建、API 配置、IDE 集成 |
-| 02 | [基础使用指南](./docs/claude-code/02-基础使用指南.md) | ⭐ | 三种使用模式、核心命令详解 |
+| 02 | [基础使用指南](./docs/claude-code/02-基础使用指南.md) | ⭐ | 三种使用模式、核心命令、会话管理 |
 | 03 | [Commands 系统](./docs/claude-code/03-Commands系统.md) | ⭐⭐ | 自定义 Slash 命令、工作流组合 |
 | 04 | [MCP 集成](./docs/claude-code/04-MCP集成.md) | ⭐⭐ | 10+ 核心服务器、自定义开发 |
 | 05 | [Hooks 系统](./docs/claude-code/05-Hooks系统.md) | ⭐⭐ | 8 种 Hook 类型、自动化工作流 |
